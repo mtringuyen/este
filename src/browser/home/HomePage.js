@@ -18,9 +18,8 @@ const HomePage = () => (
   <Box>
     <Title message="Este.js" />
     <PageHeader
-      heading="Este"
-      description="Starter kit for universal full–fledged React apps. One stack
-        for browser, mobile, server."
+      heading="Top Site for proactive"
+      description="Test data testtest."
     />
     <Heading size={1}>
       Heading
